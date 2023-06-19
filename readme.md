@@ -6,7 +6,7 @@
 - `Report/`: Contains the project report and associated files.
 
 
-### Updating pyBinSim
+## Updating pyBinSim
 inside the `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/`
 Replace the existing files "application.py", "filterstorage.py", and "osc_receiver" with the updated versions provided  inside the `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/`.
 
