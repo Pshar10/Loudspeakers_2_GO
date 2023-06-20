@@ -18,7 +18,7 @@ Replace the existing files "application.py", "filterstorage.py", and "osc_receiv
 - Open `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/UI_for_pyBinSim.py`
 - Make sure all paths of the files are correct
 - Run the UI_for_pyBinSim
-- Controll using the pyBinSim using the UI
+- Controll the pyBinSim using the UI
 
 ## To regentrate the plots 
 - Inside `Plots/` folder run plots.m
