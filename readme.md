@@ -8,7 +8,7 @@
 
 ## Updating pyBinSim
 - Inside the `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/`
-Replace the existing files "application.py", "filterstorage.py", and "osc_receiver" with the updated versions provided  inside the `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/`.
+Replace the existing code of "application.py", "filterstorage.py", and "osc_receiver" with the updated versions code provided  inside the `BRIR_synthese_SDM_fixPos_BinSim/03_BinSim_fixPos/`.
 
 ## Check senor data
 
