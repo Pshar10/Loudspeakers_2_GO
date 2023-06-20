@@ -1,6 +1,6 @@
 ## Directory Structure
 
-- `Media_Project_Final.pptx`: Contains project presentation files.
+- `Media_Project_Final.pptx`: Contains project presentation.
 - `Plots/`: Includes plots for the validation tests.
 - `BRIR_synthese_SDM_fixPos_BinSim/`: Holds the main folder of the project
 - `Report/`: Contains the project report and associated files.
