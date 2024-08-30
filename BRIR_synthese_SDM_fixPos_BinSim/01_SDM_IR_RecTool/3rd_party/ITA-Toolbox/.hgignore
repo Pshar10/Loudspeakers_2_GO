@@ -1,0 +1,4 @@
+syntax: glob
+HTML/doc
+*.html
+HTML
